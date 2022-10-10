@@ -40,6 +40,8 @@ items:
             href: ../template-builder/templates/product-search-relevance.md
           - name: Object recognition and area selection
             href: ../template-builder/templates/object-recognition.md
+          - name: Text recognition from an image (OCR)
+            href: ../template-builder/templates/text-recognition.md
       - name: Texts
         items:
           - name: Copywriting
